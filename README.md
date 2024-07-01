@@ -1,4 +1,4 @@
-![1024-500-wallpaper](https://github.com/Munya-Marinda/du-more/assets/84540577/60d3898f-d7fa-4f15-b0a9-4f0f0591d3f9)
+![1024-500-wallpaper](https://github.com/natalienyabanhi/du-more/assets/84540577/60d3898f-d7fa-4f15-b0a9-4f0f0591d3f9)
 
 
 # Du-More 📝 Version 2.0.3 Update!
@@ -45,7 +45,7 @@ Upgrade to the latest version now and enjoy a more polished, efficient, and user
 - Clear visuals make it simple to distinguish between tasks and their statuses. 👁️
  
 
-![amazon_g198-0_amazon](https://github.com/Munya-Marinda/du-more/assets/84540577/9c465080-7bab-406f-b67f-b76880231a84)
+![amazon_g198-0_amazon](https://github.com/natalienyabanhi/du-more/assets/84540577/9c465080-7bab-406f-b67f-b76880231a84)
 ![amazon_g204_amazon](https://github.com/Munya-Marinda/du-more/assets/84540577/7ccd6e2e-3be2-4f2e-a0b5-95f34a1e4bec)
 ![amazon_g203_amazon](https://github.com/Munya-Marinda/du-more/assets/84540577/117a1183-ec57-42e4-9973-9ea6d41ceb1e)
 ![amazon_g202_amazon](https://github.com/Munya-Marinda/du-more/assets/84540577/84e4464e-8715-41ce-9672-611ee0edba93)
