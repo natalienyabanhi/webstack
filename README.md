@@ -1,4 +1,4 @@
-![1024-500-wallpaper](https://github.com/natalienyabanhi/du-more/assets/84540577/60d3898f-d7fa-4f15-b0a9-4f0f0591d3f9)
+![1024-500-wallpaper](https://github.com/Munya-Marinda/du-more/assets/84540577/60d3898f-d7fa-4f15-b0a9-4f0f0591d3f9)
 
 
 # Du-More 📝 Version 2.0.3 Update!
