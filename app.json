@@ -21,7 +21,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.munya_m.dumore"
+      "package": "com.natalie.dumore"
     },
     "web": {
       "favicon": "./assets/favicon.png"
